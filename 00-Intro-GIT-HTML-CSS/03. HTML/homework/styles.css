@@ -1,11 +1,17 @@
-li {color:darkorange}
-h1 {color:brown;}
+body{
+    background: url(interestellar.jpg);
+}
+span {color: floralwhite;}
+a {color: floralwhite;}
+li {color: floralwhite;}
+h1 {color:honeydew;}
+h3 {color:floralwhite}
+h4 {color:floralwhite}
 #thirdDiv {
-    padding: 50px 50px 50px 50px;
-    height: 1200px;;
+    padding: 50px 95px 50px 50px;
+    height: 1150px;;
     width:700px;
     background-color: darkcyan;
-    
 }
 #spanId {
     font-size: 18px;
