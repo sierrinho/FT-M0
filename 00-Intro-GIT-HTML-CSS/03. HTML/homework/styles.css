@@ -1,0 +1,12 @@
+li {color:darkorange}
+h1 {color:brown;}
+#thirdDiv {
+    height:600px;
+    width:500px;
+    background-color: darkcyan;
+    padding: 50px;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
