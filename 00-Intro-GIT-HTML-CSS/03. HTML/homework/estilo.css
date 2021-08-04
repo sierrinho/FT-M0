@@ -1,0 +1,7 @@
+body {background:url(space.jpg); margin: 100px 400px 50px 300px;}
+h1 {color:blue;}
+h3 {color:cornflowerblue;}
+p {color:rgb(92, 105, 117);}
+#thirdDiv {background-color: rgba(255, 255, 255, 0.685); padding: 10px 450px 80px 80px; margin: 30px -100px;}
+
+#foto {height:200px;width:200px;position:relative;top:-630px;left:1030px;}
